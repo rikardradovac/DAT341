@@ -6,9 +6,12 @@ __pycache__/
 *.html 
 .DS_Store
 *.png 
-
+*.csv
+*.numbers
+*.xlsx
 # C extensions
 *.so
+plugg/
 
 # Distribution / packaging
 .Python
